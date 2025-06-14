@@ -8,11 +8,6 @@ liferay-sample-etc-dot-net-oauth-application-user-agent:
     scopes:
         - Liferay.Headless.Admin.Workflow.everything
     type: oAuthApplicationUserAgent
-liferay-sample-etc-dot-net-weatherforecast:
-    name: Liferay Sample Etc DotNet WeatherForecast
-    oAuth2ApplicationExternalReferenceCode: liferay-sample-etc-dot-net-oauth-application-user-agent
-    resourcePath: /weatherforecast
-    type: objectAction
 liferay-sample-etc-dot-net-object-action-1:
     name: Liferay Sample Etc DotNet Object Action 1
     oAuth2ApplicationExternalReferenceCode: liferay-sample-etc-dot-net-oauth-application-user-agent
