@@ -1,0 +1,80 @@
+## Build results
+bin/
+obj/
+[Ll]og/
+*.log
+
+## User-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+## OS generated files
+.DS_Store
+Thumbs.db
+
+## Rider / VSCode / Visual Studio
+.idea/
+.vscode/
+.vs/
+
+## Package manager artifacts
+packages/
+*.nupkg
+*.snupkg
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+## Build directories
+build/
+out/
+
+## Publish output
+wwwroot/
+publish/
+AppPackages/
+*.Publish.xml
+
+## Temporary files
+*.tmp
+*.temp
+
+## Azure stuff
+*.azurePubxml
+*.azurePubxml.user
+
+## Resharper
+_ReSharper*/
+*.[Rr]e[Ss]harper
+
+## DotCover
+*.dotCover
+
+## Entity Framework
+Migrations/
+
+## Secret / environment config
+appsettings.Development.json
+secrets.json
+
+## Logs
+*.log
+
+## Test results
+TestResults/
+*.coverage
+*.coveragexml
+
+## Others
+node_modules/
+npm-debug.log
+yarn-error.log
+
+## JetBrains Rider
+.idea/
+
+## Docker
+**/.dockerignore
+**/Dockerfile
